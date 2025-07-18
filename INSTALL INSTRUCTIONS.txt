@@ -1,0 +1,8 @@
+Make America Great Again Clothing Pack - X1Studios (SheriffX1)
+
+This EUP is ADDON
+
+1) Drag and drop file 'x1safw' into resources.
+2) Start 'x1safw' in server.cfg
+
+
